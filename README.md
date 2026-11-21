@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Piyush Agarwal.
 
-<!--
-**PiyushAgarwal9/PiyushAgarwal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product leader and independent researcher. I build applied AI products
+and study how conversational AI handles the way people communicate across
+Indian languages. My research focuses on language understanding, safety and fairness.
 
-Here are some ideas to get you started:
+In 2026, two of my papers were published at EMNLP workshops and two were
+accepted at ICON.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Where Does Noise Robustness Live?](https://aclanthology.org/2026.wnut-1.26/) —
+  What helps an assistant understand shorthand, typos and mixed-language requests?
+- [BankShield](https://aclanthology.org/2026.finnlp-1.21/) —
+  Can a safety guard catch discrimination while allowing legitimate responses?
+
+[Get in touch on LinkedIn](https://www.linkedin.com/in/piyushagarwal9/)
