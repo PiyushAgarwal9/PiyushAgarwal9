@@ -1,6 +1,5 @@
-# Piyush Agarwal
+# Piyush Agarwal - Applied AI Product Leader & Independent Researcher
 
-**Applied AI Product Leader & Independent Researcher**
 
 I build conversational AI products. My research asks how assistants understand people who mix Indian languages and English, and how to tell when their responses are safe, fair and useful.
 
