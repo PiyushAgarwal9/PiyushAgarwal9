@@ -1,33 +1,17 @@
-# Hi, I’m Piyush 👋
+Piyush Agarwal
+Applied AI product leader & independent researcher
 
-I build AI products and study how they behave in real conversations.
-I’m especially interested in what happens when people switch languages,
-phrase a request differently, or expect an assistant to know when to ask for help.
+I build conversational AI products and study the decisions behind each reply: what did the person mean, when should the assistant ask, and when is it safe to act?
 
-### What I build
-
-- **Conversational assistants** that help people find information and complete tasks.
-- **Language tools** like [Arth Bhasha](https://github.com/PiyushAgarwal9/arth-bhasha),
-  a prototype for identifying Indian languages in messages.
-- **Evaluation tools** that test whether an assistant understood the request
-  and whether its response was safe and useful.
-
-### Independent research
-
-I wrote four papers in 2026. Two were published at EMNLP workshops and two
-were accepted at ICON.
-
-- [Where Does Noise Robustness Live?](https://aclanthology.org/2026.wnut-1.26/) · W-NUT —
-  Which parts of an AI system help it understand typos and mixed-language requests?
-- [BankShield](https://aclanthology.org/2026.finnlp-1.21/) · FinNLP —
-  Can a safety guard catch discrimination and still allow legitimate responses?
-- [Two ICON papers](https://www.icon2026.org/accepted-papers) —
-  How does intent change across Hindi and Tamil phrasing, and how reliably
-  can we identify Indian languages written in Latin script?
-
-### Outside work
-
-I was the founding president of the SMU MBA Alumni Group and now represent
-Singapore Management University alumni in India.
-
-[Write to me on LinkedIn](https://www.linkedin.com/in/piyushagarwal9/)
+Explore a build · Arth Bhasha · Write to me on LinkedIn
+Four papers in 2026
+<table>
+<tr>
+<td width="50%" valign="top"><strong><a href="https://aclanthology.org/2026.wnut-1.26/">Where Does Noise Robustness Live?</a></strong><br>Understanding shorthand and code-mixed requests.<br><sub>W-NUT at EMNLP · Published</sub></td>
+<td width="50%" valign="top"><strong><a href="https://aclanthology.org/2026.finnlp-1.21/">BankShield</a></strong><br>Testing safety guards for discrimination and false alarms.<br><sub>FinNLP at EMNLP · Published</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong><a href="https://www.icon2026.org/accepted-papers#:~:text=Stable%20and%20Sensitive">Stable and Sensitive?</a></strong><br>Testing when intent should stay the same or change in Hindi and Tamil.<br><sub>ICON · Accepted · Paper 234</sub></td>
+<td width="50%" valign="top"><strong><a href="https://www.icon2026.org/accepted-papers#:~:text=FinConvBench%20and%20FinConvLID">FinConvBench and FinConvLID</a></strong><br>Identifying Indian languages written in Latin script.<br><sub>ICON · Accepted · Paper 257</sub></td>
+</tr>
+</table>SMU alumni representative in India · Founding president, SMU MBA Alumni Group
